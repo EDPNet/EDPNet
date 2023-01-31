@@ -1,1 +1,1 @@
-# py_EDPNet
+# EDPNet

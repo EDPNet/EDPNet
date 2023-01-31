@@ -1,0 +1,9 @@
+others
+Building
+car
+door
+pavement
+road
+sky
+vegetation
+window

@@ -1,0 +1,10 @@
+JPEGImages/bonn_000013.jpg SegmentationClass/bonn_000013.png
+JPEGImages/basel_000058_mv0.jpg SegmentationClass/basel_000058_mv0.png
+JPEGImages/basel_000075_mv0.jpg SegmentationClass/basel_000075_mv0.png
+JPEGImages/basel_000057_mv0.jpg SegmentationClass/basel_000057_mv0.png
+JPEGImages/hamburg_000087.jpg SegmentationClass/hamburg_000087.png
+JPEGImages/basel_000074_mv0.jpg SegmentationClass/basel_000074_mv0.png
+JPEGImages/bonn_000039.jpg SegmentationClass/bonn_000039.png
+JPEGImages/basel_000055_mv0.jpg SegmentationClass/basel_000055_mv0.png
+JPEGImages/basel_000066_mv0.jpg SegmentationClass/basel_000066_mv0.png
+JPEGImages/berlin_000011.jpg SegmentationClass/berlin_000011.png

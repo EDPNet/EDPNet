@@ -29,7 +29,7 @@ The proposed EDPNet was trained and predicted based on deep learning server usin
      ```shell
      sh tool/test.sh cityscapes EDPNet
      ```
-###Statement
+### Statement
 Code reference PSPNet, Xception+
 
 PSPNet

@@ -29,3 +29,10 @@ The proposed EDPNet was trained and predicted based on deep learning server usin
      ```shell
      sh tool/test.sh cityscapes EDPNet
      ```
+###Statement
+Code reference PSPNet, Xception+
+
+PSPNet
+https://github.com/hszhao/semseg,
+Xception+
+https://github.com/bubbliiiing/deeplabv3-plus-pytorch

@@ -3,7 +3,7 @@
 
 ### Introduction
 
-This repository is a PyTorch implementation for semantic segmentation / scene parsing. The code is easy to use for training and testing on various datasets. The codebase mainly use Xception+ as backbone and can be easily adapted to other basic classification structures.Sample experimented datasets are [eTRIMS](http://www.ipb.uni-bonn.de/projects/etrims_db/), [PASCAL VOC 2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6) and [Cityscapes](https://www.cityscapes-dataset.com).
+This repository is a PyTorch implementation for semantic segmentation / scene parsing. The code is easy to use for training and testing on various datasets. The codebase mainly use Xception+ as backbone and can be easily adapted to other basic classification structures.Sample experimented datasets are [eTRIMS](http://www.ipb.uni-bonn.de/projects/etrims_db/), [PASCAL VOC 2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6),[CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) and [Cityscapes](https://www.cityscapes-dataset.com).
 
 ### Usage
 1. Requirement:

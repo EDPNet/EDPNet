@@ -1,5 +1,6 @@
 # EDPNet
-#you need to download xception_pytorch_imagenet.pth and put it into the folder,imitmodel
+#you need to download xception_pytorch_imagenet.pth and put it into the folder,imitmodel-----链接：https://pan.baidu.com/s/187MMiDJUMKvPUnhYwKM8Gg?pwd=kcjn 
+提取码：kcjn
 
 ### Introduction
 
